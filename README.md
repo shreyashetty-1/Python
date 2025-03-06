@@ -1,5 +1,5 @@
 # Python(Pandas/Matplotlib)
-AutoElite is a prominent car dealership for a leading automotive brand, operating multiple showrooms across India. Following the launch of new showrooms in the East region in December 2022, the management team set ambitious sales targets for their top models: Hatchback, SUV, and Sedan. To ensure a successful launch and growth, they established specific sales goals across various regions, states, and months. The analysis culminates in the creation of a bar chart that visualizes the monthly, state, and region sales differences, providing insights into performance against targets.
+The analysis culminates in the creation of a bar chart that visualizes the monthly, state, and region sales differences, providing insights into performance against targets.
 
 
 ![08a58ac2-e811-4fcb-8363-75e153cde63b](https://github.com/user-attachments/assets/24c735d4-3c0c-4ada-8741-e04b9bb3a731)
